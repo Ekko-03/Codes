@@ -41,5 +41,3 @@ elif edad>= 12 and edad<=17:
     print("tiene", edad,"por tanto es un adolescente")
 else:
     print("tiene", edad, "por tanto es mayor de edad")
-
-a
